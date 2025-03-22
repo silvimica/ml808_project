@@ -1,0 +1,31 @@
+column,explanation
+RIDAGEYR,Age in years at screening
+RIAGENDR,Gender of the participant.
+RIDRETH3,"Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category"
+DMDEDUC2,Education level - Adults 20+
+INDFMMPI,Family monthly poverty level index
+INDFMPIR,Ratio of family income to poverty
+BMXBMI,Body Mass Index (kg/m**2)
+BMXWAIST,Waist Circumference (cm)
+BMXHIP,Hip Circumference (cm)
+DRQSDIET,On special diet?
+DR1TKCAL,Energy (kcal)
+DR1TPROT,Protein (gm)
+DR1TCARB,Carbohydrate (gm)
+DR1TSUGR,Total sugars (gm)
+DR1TFIBE,Dietary fiber (gm)
+DR1TTFAT,Total fat (gm)
+DR1TSFAT,Total saturated fatty acids (gm)
+DR1TCAFF,Caffeine (mg)
+DR1_320Z,Total plain water drank yesterday (gm)
+PAD790Q,Frequency of moderate LTPA
+PAD790U,Moderate LTPA unit (day/week/month/year)
+PAD810Q,Frequency of vigorous LTPA
+PAD810U,Vigorous LTPA unit (day/week/month/year)
+PAD680,Minutes sedentary activity
+LBXHGB,Hemoglobin (g/dL)
+LBXHSCRP,HS C-Reactive Protein (mg/L)
+SMQ040,Do you now smoke cigarettes?
+ALQ121,Past 12 mos how often drink alc bev
+SLD012,Sleep hours - weekdays or workdays
+SLD013,Sleep hours - weekends
