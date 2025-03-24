@@ -8,7 +8,6 @@ INDFMPIR,Ratio of family income to poverty
 BMXBMI,Body Mass Index (kg/m**2)
 BMXWAIST,Waist Circumference (cm)
 BMXHIP,Hip Circumference (cm)
-DRQSDIET,On special diet?
 DR1TKCAL,Energy (kcal)
 DR1TPROT,Protein (gm)
 DR1TCARB,Carbohydrate (gm)
@@ -25,7 +24,12 @@ PAD810U,Vigorous LTPA unit (day/week/month/year)
 PAD680,Minutes sedentary activity
 LBXHGB,Hemoglobin (g/dL)
 LBXHSCRP,HS C-Reactive Protein (mg/L)
+LBXGLU,Fasting Glucose (mg/dL)
+LBDINSI,Insulin (pmol/L)
 SMQ040,Do you now smoke cigarettes?
 ALQ121,Past 12 mos how often drink alc bev
 SLD012,Sleep hours - weekdays or workdays
 SLD013,Sleep hours - weekends
+DPQ100,Difficulty mental health problems have caused
+LBDTHGSI,Blood mercury, total (nmol/L)
+LBXBPB,Blood lead (ug/dL)
